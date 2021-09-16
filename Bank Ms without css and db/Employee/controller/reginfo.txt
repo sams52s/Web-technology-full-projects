@@ -1,0 +1,5 @@
+sams|1|Toufiqul a Sams|sams52tas@gmail.com|1750096696|male|Bangladesh,Rajshahi, Binodpur Bazar|SSC|BSc
+sams|1|Toufiqul a Sams|sams52tas@gmail.com|01750096696|male|Bangladesh,Rajshahi, Binodpur Bazar|HSC|BSc
+sams|1|Toufiqul a Sams|sams52tas@gmail.com|1750096696|male|Bangladesh,Rajshahi, Binodpur Bazar|Honers|BSc
+sams|1|Toufiqul a Sams|sams52tas@gmail.com|1750096696|female|Bangladesh,Rajshahi, Binodpur Bazar|Honers|BSc
+sams|1|Toufiqul a Sams|sams52tas@gmail.com|1750096696|male|Bangladesh,Rajshahi, Binodpur Bazar|SSC|BSc

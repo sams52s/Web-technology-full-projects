@@ -1,0 +1,30 @@
+* {
+    margin: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+table,
+th,
+td {
+    border: 1px solid black;
+}
+
+body {
+    margin-top: 15px;
+}
+
+.btn_login {
+    background-color: rgba(24, 127, 223, 0.671);
+    padding: 10px;
+    margin: 10px;
+    font-size: 20px;
+    width: 100px;
+}
+
+.btn_reg {
+    background-color: rgba(240, 151, 17, 0.671);
+    padding: 10px;
+    margin: 10px;
+    font-size: 20px;
+    width: 200px;
+}

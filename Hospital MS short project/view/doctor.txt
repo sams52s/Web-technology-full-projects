@@ -1,0 +1,1 @@
+[{"fname":"Ahadul","lname":"Anam Khan","gender":"male","dob":"2021-06-01","religion":"Muslim","praddress":"Bashundhara RA","peaddress":"Dhaka","phone":"423235235","email":"dasdada@gmail.com","web":"https:\/\/www.w3schools.com\/colors\/colors_rgb.asp","username":"Ahadul","password":"234"}]

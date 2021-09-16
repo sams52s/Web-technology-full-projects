@@ -1,0 +1,160 @@
+Deposit Rates
+Deposit Name	Provisional Profit Rate
+Al-Wadia Current Deposit	0%
+Mudaraba Savings Deposit (MSD)	3.00% (Below BDT 1 Lac)
+3.00% (BDT 1 Lac and above but below BDT 2 Lac) *
+3.00% (BDT 2 Lac and above) *
+Mudaraba Special Notice Deposit (MSND)	2.00% (Below BDT 10 Crore)
+3.00% (BDT 10 Crore and above but below BDT 50 Crore) *
+3.00% (BDT 50 Crore and above) *
+Effect From : June 01, 2021 (*Bundle Allowed)
+Mudaraba Term Deposit Receipt
+Mudaraba Term Deposit Receipt	Provisional Profit Rate
+Mudaraba Term Deposit – 1 (One) Month	3.00% (Below BDT 5 Crore)
+3.00% (BDT 5 Crore and above but below BDT 10 Crore) *
+3.00% (BDT 10 Crore and above) *
+Mudaraba Term Deposit – 3 Months	5.00%
+Mudaraba Term Deposit – 6 (Six) Months	5.25%
+Mudaraba Term Deposit – 1 (One) Year	5.50%
+Mudaraba Term Deposit – 2 (Two) Years	5.50%
+Mudaraba Term Deposit – 3 (Three) Years & Above.	5.50%
+Effect From : June 01, 2021 (*Bundle Allowed)
+Mudaraba Deposit Scheme
+Scheme Name	Provisional Profit Rate	Rmarks
+Mudaraba Monthly Benefit Scheme	 	One can deposit Tk. 25,000.00 or its multiple amount
+G4 Senior (01) One Year	5.75%
+G4 Femina (01) One Year	5.75%
+G4 Su- Grihini (01) One Year	5.75%
+G4 Probashi (01) One Year	5.75%
+Mudaraba Monthly Income Scheme	 	One can deposit Tk. 25,000.00 or its multiple amount
+01 (One) Year	5.25%
+03 (Three) Year	5.50%
+05 (Five) Year	5.75%
+Effect From : June 01, 2021
+Scheme Name	Provisional Profit Rate	Rmarks
+Mudaraba Monthly Savings Scheme	 	One can deposit Tk. 200.00 or Tk. 500.00 or multiple of these amounts
+03 (Three) Years	5.57 %
+05 (Five) Years	5.80 %
+08 (Eight) Years	5.87 %
+10 (Ten) Years	5.92 %
+12 (Twelve) Years	5.97 %
+Mudaraba Super Savings Scheme (12 Years)	
+More than Double (5.95 %)
+
+One can deposit Tk. 5,000.00 or its multiple amount
+Mudaraba Multiplus Savings Scheme (19 Years)	More than Tripple (5.95 %)
+Mudaraba Hajj Scheme	 	Any amount
+05 (Five) Years	6.05 %
+08 (Eight) Years	6.10 %
+10 (Ten) Years	6.15 %
+15 (Fifteen) Years	6.20 %
+20 (Twenty) Years	6.25 %
+Mudaraba "G4 Education Savers"	 	 
+Mudaraba Student Savings Scheme	Same as Mudaraba Savings Deposit	One can Deposit Tk. 100.00 and its Multiple Amount
+Mudaraba Student Monthly Savings Scheme	Same as Mudaraba Monthly Savings Scheme	One can Deposit Tk. 200.00 or Tk. 500.00 and its Multiple Amount
+Mudaraba Denmohor / Marriage Savings Scheme	 	One can deposit Tk. 500.00 or its multiple amount
+03 (Three) Years	5.90 %
+05 (Five) Years	5.95 %
+08 (Eight) Years	6.02 %
+10 (Ten) Years	6.07 %
+12 (Twelve) Years	6.12 %
+20 (Twenty) Years	6.22 %
+G4 Ruhama	 	Deposit: Tk. 25,000/- or its multiple amount
+Monthly Installment: Tk. 518/- or its multiple amount
+3 (Three) Years' Probable Double Benefit Scheme	6.20 %
+G4 Ziadah	 	Deposit: Tk. 25,000/- or its multiple amount
+Monthly Installment: Tk. 591/- or its multiple amount
+5 (Five) Years' Probable Triple Benefit Scherne	6.25 %
+Mudaraba Krishi Monthly Savings Schemes	 	One can deposit Tk. 50.00 or its multiple amount
+03 (Three) Years	6.05 %
+05 (Five) Years	6.10 %
+08 (Eight) Years	6.17 %
+10 (Ten) Years	6.22 %
+12 (Twelve) Years	6.25 %
+Mudaraba Swapno Monthly Savings Schemes	 	One can deposit Tk. 100.00 or its multiple amount
+03 (Three) Years	6.00 %
+05 (Five) Years	6.05 %
+08 (Eight) Years	6.12 %
+10 (Ten) Years	6.17 %
+12 (Twelve) Years	6.22 %
+Mudaraba Shefa Monthly Savings Schemes	 	One can Deposit Tk. 200.00 or Tk. 500.00 and its Multiple Amount
+03 (Three) Years	6.00 %
+05 (Five) Years	6.05 %
+08 (Eight) Years	6.12 %
+Mudaraba Probashi Monthly Savings Scheme	 	One can Deposit Tk. 500.00 and its Multiple Amount
+03 (Three) Years	6.00 %
+05 (Five) Years	6.05 %
+08 (Eight) Years	6.12 %
+10 (Ten) Years	6.17 %
+12 (Twelve) Years	6.22 %
+Mudaraba Cash Wakf Diposit	7.00%	 
+Mudaraba Monthly Income Scheme
+Tenure/Period	Weightage	Provisional Rate of Profit	Net payable after deduction of 10% tax for Tk. 1.00 lac	Net payable after deduction of 15% tax for Tk. 1.00 lac
+01 (One) Year	1.27	5.25 %	Tk. 394/-	Tk. 372/-
+03 (Three) Year	1.27	5.50 %	Tk. 413/-	Tk. 390/-
+05 (Five) Year	1.27	5.75 %	Tk. 431/-	Tk. 407/-
+Mudaraba Monthly Savings Scheme
+Year	Rate of Profit	Different slabs and estimated payable after maturity ( may be more or less)
+200/-	500/-	1,000/-	2,000/-	5,000/-	10,000/-	20,000/-
+03 Years	5.75%	7875/-	19689/-	39377/-	78754/-	196886/-	393772/-	787543/-
+05 Years	5.8%	13950/-	34874/-	69748/-	139496/-	348740/-	697481/-	1394962/-
+08 Years	5.87%	24550/-	61375/-	122749/-	245498/-	613745/-	1227490/-	2454980/-
+10 Years	5.92%	32795/-	81987/-	163975/-	327950/-	819874/-	1639748/-	3279495/-
+12 Years	5.97%	42155/-	105388/-	210776/-	421551/-	1053878/-	2107757/-	4215513/-
+Mudaraba Senior Monthly Benefit Scheme
+Tenure/Period	Weightage	Provisional Rate of Profit	Net payable after deduction of 10% tax for Tk. 1.00 lac	Net payable after deduction of 15% tax for Tk. 1.00 lac
+01 (one) Year	1.27	5.75 %	Tk. 431/-	Tk. 407/-
+Mudaraba Senior Monthly Savings Scheme
+Year	Provisional Rate of Profit	Different slabs and estimated payable after maturity ( may be more or less)
+200/-	500/-	1,000/-	2,000/-	5,000/-	10,000/-	20,000/-
+01 (one) Year	6.15 %	2481/-	6204/-	12407/-	24815/-	62037/-	124074/-	248147/-
+02 (Two) Years	6.25 %	5125/-	12813/-	25627/-	51253/-	128134/-	256267/-	512534/-
+Mudaraba Femina Monthly Benefit Scheme
+Tenure/Period	Weightage	Provisional Rate of Profit	Net payable after deduction of 10% tax for Tk. 1.00 lac	Net payable after deduction of 15% tax for Tk. 1.00 lac
+01 (one) Year	1.27	5.75 %	Tk. 431/-	Tk. 407/-
+Mudaraba Femina Monthly Savings Scheme
+Weightage	Rate of Profit	Year	Different slabs and estimated payable after maturity ( may be more or less)
+200/-	500/-	1,000/-	2,000/-	5,000/-	10,000/-	20,000/-
+1.32	6.00 %	03 Years	7907/-	19766/-	39533/-	79066/-	197664/-	395328/-	790656/-
+1.34	6.05 %	05 Years	14042/-	35106/-	70212/-	140424/-	351060/-	702120/-	1404239/-
+1.30	6.12 %	08 Years	24817/-	62044/-	124087/-	248175/-	620437/-	1240874/-	2481748/-
+1.30	6.17 %	10 Years	33250/-	83125/-	166251/-	332501/-	831253/-	1662505/-	3325011/-
+1.29	6.22 %	12 Years	42870/-	107176/-	214352/-	428705/-	1071761/-	2143523/-	4287046/-
+Mudaraba Su-Grehini Monthly Benefit Scheme
+Tenure/Period	Weightage	Provisional Rate of Profit	Net payable after deduction of 10% tax for Tk. 1.00 lac	Net payable after deduction of 15% tax for Tk. 1.00 lac
+01 (one) Year	1.27	5.75%	Tk. 431/-	Tk. 407/-
+Mudaraba Su-Grehini Monthly Savings Scheme
+Weightage	Rate of Profit	Year	Different slabs and estimated payable after maturity ( may be more or less)
+200/-	500/-	1,000/-	2,000/-	5,000/-	10,000/-	20,000/-
+1.31	6.00 %	03 Years	7907/-	19766/-	39533/-	79066/-	197664/-	395328/-	790656/-
+1.33	6.05 %	05 Years	14042/-	35106/-	70212/-	140424/-	351060/-	702120/-	1404239/-
+1.29	6.12 %	08 Years	24817/-	62044/-	124087/-	248175/-	620437/-	1240874/-	2481748/-
+1.29	6.17 %	10 Years	33250/-	83125/-	166251/-	332501/-	831253/-	1662505/-	3325011/-
+1.28	6.22 %	12 Years	42870/-	107176/-	214352/-	428705/-	1071761/-	2143523/-	4287046/-
+Mudaraba Denmohor / Marriage Deposit Scheme
+Tenure / Period	Different slabs and estimated payable after maturity ( Maybe more or less) (Amount in Tk.)
+Profit Rate	500/-	1,000/-	2,000/-	5,000/-	10,000/-	20,000/-
+03 Years	5.90 %	19735/-	39470/-	78941/-	197352/-	394704/-	789409/-
+05 Years	5.95 %	35013/-	70026/-	140052/-	350130/-	700260/-	1400519/-
+08 Years	6.02 %	61775/-	123550/-	247100/-	617749/-	1235498/-	2470997/-
+10 Years	6.07 %	82668/-	165336/-	330671/-	826678/-	1653355/-	3306710/-
+12 Years	6.12 %	106456/-	212913/-	425825/-	1064563/-	2129126/-	4258253/-
+20 Years	6.22 %	238368/-	476735/-	953470/-	2383675/-	4767351/-	9534701/-
+Mudaraba Millionaire Deposit Scheme
+Tenure / Period	Weightage	Profit Rates	Monthly Installment	Expected Amount
+03 Years	1.30	5.70 %	25,417.00	10,00,000.00
+05 Years	1.31	5.75 %	14,358.00	10,00,000.00
+08 Years	1.32	5.80 %	8,173.00	10,00,000.00
+10 Years	1.33	5.85 %	6,124.00	10,00,000.00
+12 Years	1.34	5.90 %	4,768.00	10,00,000.00
+15 Years	1.35	5.95 %	3,438.00	10,00,000.00
+Mudaraba Kotipoti Deposit Scheme
+Tenure / Period	Weightage	Profit Rates	Monthly Installment	Expected Amount
+03 Years	1.30	5.20 %	2,56,166.00	1,00,00,000.00
+05 Years	1.31	5.25 %	1,45,475.00	1,00,00,000.00
+08 Years	1.32	5.30 %	83,498.00	1,00,00,000.00
+10 Years	1.33	5.35 %	62,922.00	1,00,00,000.00
+12 Years	1.34	5.40 %	49,288.00	1,00,00,000.00
+15 Years	1.35	5.45 %	35,865.00	1,00,00,000.00
+18 Years	1.36	5.48 %	27,132.00	1,00,00,000.00
+20 Years	1.37	5.50 %	22,852.00	1,00,00,000.00

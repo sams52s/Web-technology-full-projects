@@ -1,0 +1,7 @@
+Name:
+F.Name:
+Email:
+Phone:
+Address:
+Gender:
+Type:
